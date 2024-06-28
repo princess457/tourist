@@ -1,0 +1,65 @@
+*
+{
+margin:0px;
+padding:0px;
+}
+
+body
+{
+background:radial-gradient(white,skyblue);
+}
+.jumbotron
+{
+background-color:B2F9FB;
+opacity:0;
+}
+#on1
+{
+color:163167;
+font-family:Baskerville Old Face;
+font-size:50px;
+text-indent:40px;
+
+}
+#on
+{
+font-family:Mongolian Baiti;
+font-size:50px;
+color:black;
+}
+#on2
+{
+font-family:Monotype Corsiva;
+font-size:25px;
+color:163167;
+}
+#on3
+{
+font-family:Monotype Corsiva;
+font-size:35px;
+color:163167;
+}
+.navbar
+{
+background-color:C0C0C0;
+}
+.on2
+{
+font-family:Baskerville Old Face;
+font-size:25px;
+color:black;
+}
+.btn
+{
+border:solide 2px black;
+border-radius:90px;
+}
+#div
+{
+width:45%; 
+border:solid 1px black; 
+margin:20px 20px; 
+padding:10px 5px;
+background:skyblue;
+box-shadow:5px 5px 10px grey;
+}
